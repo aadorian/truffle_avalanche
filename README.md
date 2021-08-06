@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/GA0LyT3.png " width="50" alt="AVA logo">
 </a>
 </p>
+
 - [Introduction](#introduction)
 - [Previous Steps](#previous-steps)
   * [Install Node & VSCode](#install-node---vscode)
